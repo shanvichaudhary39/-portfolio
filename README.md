@@ -1,33 +1,39 @@
 # Portfolio
 
-This is my personal portfolio website showcasing my projects, skills, and experience.
+A personal portfolio website showcasing projects, technical skills, and contact information.
+
+## Overview
+This project is a clean and responsive portfolio website designed to present my work, experience, and technical strengths in a professional and visually appealing way.
 
 ## Features
+- Responsive layout for desktop and mobile devices
+- Project showcase section
+- Skills and technologies section
+- About section with profile information
+- Contact section for potential opportunities
+- Lightweight front-end setup
 
-- **Responsive Design** - Works seamlessly on all devices
-- **Project Showcase** - Display of my best work and projects
-- **Skills Section** - Overview of technical expertise
-- **Contact Information** - Easy ways to get in touch
-
-## Technologies Used
-
+## Tech Stack
 - HTML5
 - CSS3
 
-## How to Use
-
-1. Clone this repository
-2. Open `index.html` in your browser
-3. Explore the portfolio
+## Project Structure
+```bash
+-portfolio/
+├── index.html
+├── styles.css
+├── assets/
+├── README.md
+└── images/
+```
 
 ## Getting Started
+1. Clone the repository
+2. Open `index.html` in your browser
+3. Customize text, projects, and contact information to match your profile
 
-No installation required! Simply open the HTML file and view in your web browser.
+## Usage
+Use this site as a personal portfolio landing page, or adapt it into your own online resume and project showcase.
 
-## Contact
-
-For inquiries or collaboration opportunities, feel free to reach out through the contact section in the portfolio.
-
----
-
-**Note:** This is my personal portfolio. Feel free to use it as inspiration for your own!
+## License
+This project is for personal use and portfolio demonstration.
